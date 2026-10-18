@@ -1,5 +1,4 @@
-# Valentines Day Trap ðŸŽ¯
-
+# Valentines Day Trap
 An interactive Valentine's Day-themed web application with engaging animations and a fun trap-style experience.
 
 ## Features
